@@ -11,6 +11,4 @@ but, you can make a few changes to make it work for your personal use.
 5. Run either of the Chatbot.ipynb file to get your chatbot ready!
 
 
-At the moment it contains 4 files about HSBC Insurance as input, please feel free to change the same, you can find help to put in your preffered data on the official documentation of LangChain or any other article.
-
-You can run either of the 2 files, .ipynb to get to the relevant question-answering chatbots.
+At the moment it contains 4 pdf files as input, please feel free to change the same, you can find help to put in your preferred data on the official documentation of LangChain or any other article.
