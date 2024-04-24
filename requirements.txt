@@ -1,0 +1,8 @@
+openai
+python-dotenv
+langchain
+tiktoken
+chromadb
+numpy
+lark
+panel
